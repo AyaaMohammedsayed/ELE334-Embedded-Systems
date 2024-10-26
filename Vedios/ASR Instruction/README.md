@@ -17,6 +17,7 @@ The **Arithmetic Shift Right (ASR)** instruction shifts the bits in a register t
 When executing the instruction `ASRS`, the carry flag is updated to reflect the last bit shifted out (bit[n-1]) of the register `Rm`.
 ## Additional Resources
 For a visual explanation of shift operations, check out this [YouTube video](https://www.youtube.com/watch?v=your_video_link_here).
+![Example Image](https://github.com/johnDoe/shift-operations/raw/main/images/example.png)
 
 ## Conclusion
 The ASR instruction is a powerful tool for bit manipulation, especially useful for signed integer arithmetic. It is crucial to understand its operation and implications for effective programming and optimization in low-level applications.
