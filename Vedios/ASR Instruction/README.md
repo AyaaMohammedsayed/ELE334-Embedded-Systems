@@ -28,7 +28,7 @@ In the following assembly code, the value `0x80000000` is loaded into register `
        ENTRY
        EXPORT __main
 __main
-    LDR R0, =0x80000000     ; Load value 0x80000000 into R0
+    LDR R0, =0x00000002     ; Load value 0x80000000 into R0
     ASR R1, R0, #1          ; Arithmetic shift right R0 by 1, result in R1
     B __main                ; Loop indefinitely
     END
