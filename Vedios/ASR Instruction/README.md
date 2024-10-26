@@ -1,4 +1,4 @@
-# SHIFT OPERATIONS README
+# SHIFT OPERATIONS
 
 ## Overview
 Register shift operations are essential for manipulating the bits within a register by moving them left or right by a specified number of bits, referred to as the shift length. These operations can be performed directly using instructions such as ASR, LSR, LSL, and ROR, with the results written to a destination register.
