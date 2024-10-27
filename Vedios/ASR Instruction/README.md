@@ -16,7 +16,7 @@ The **Arithmetic Shift Right (ASR)** instruction shifts the bits in a register t
 ### Flags
 When executing the instruction `ASRS`, the carry flag is updated to reflect the last bit shifted out (bit[n-1]) of the register `Rm`.
 ## Additional Resources
-For a visual explanation of shift operations, check out this [YouTube video](https://www.youtube.com/watch?v=your_video_link_here).
+For a visual explanation of shift operations, check out this [YouTube video](https://youtu.be/FKMY_cTj3u0).
 
 ![Example Image](https://github.com/AyaaMohammedsayed/ELE334-Embedded-Systems/blob/main/Vedios/ASR%20Instruction/ASR.png)
 
